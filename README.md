@@ -4,8 +4,6 @@ An exploratory project to analyze and visualize data consisting of diversified u
 
 The included report file contains a detailed description of the project, with a demo video as well.
 
-Contributors:
-Sriram Sundar
-Swaminathan Sivaraman
+Contributors: Sriram Sundar, Swaminathan Sivaraman
 
 This project is done as part of the CSE 564 Visualization course (Spring 2017) at Stony Brook University.
